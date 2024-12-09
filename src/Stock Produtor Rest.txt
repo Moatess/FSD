@@ -1,0 +1,5 @@
+ferramentas|alicate|10|100
+ferramentas|martelo|20|100
+computadores|macM1|50|100
+computadores|macM2|30|200
+
